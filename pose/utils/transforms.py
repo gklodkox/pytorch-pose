@@ -8,7 +8,7 @@ import torch
 from .misc import *
 from .imutils import *
 import cv2
-import imutils
+#import imutils
 
 
 def color_normalize(x, mean, std):
